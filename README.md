@@ -6,6 +6,12 @@ Pac-Man navigates a customizable maze, searching for the optimal path to consume
 
 ---
 
+## 🎬 Demo
+
+<video src="demo.mp4" controls width="100%"></video>
+
+---
+
 ## 🚀 Key Features
 
 *   **A\* Pathfinding Algorithm:** Finds the optimal route to collect all food pellets scattered across the grid.
