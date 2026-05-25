@@ -4,13 +4,6 @@ A Python-based Pac-Man pathfinding simulation powered by the **A* Search algorit
 
 Pac-Man navigates a customizable maze, searching for the optimal path to consume all food items while utilizing unique mechanics such as corner teleportation and wall-passing power-ups.
 
----
-
-## 📌 Repository "About" Description
-> *A Pygame-visualized Pac-Man solver using the A\* Search algorithm. Features dynamic pathfinding, custom heuristics, diagonal-corner teleportation, and wall-pass power-ups.*
-
----
-
 ## 🚀 Key Features
 
 *   **A\* Pathfinding Algorithm:** Finds the optimal route to collect all food pellets scattered across the grid.
