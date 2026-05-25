@@ -1,0 +1,11 @@
+SC_WIDTH = 700
+SC_HEIGHT = 500
+BG_COLOR = (0, 0, 26)
+PACMAN_COLOR = (255, 255, 0)
+FOOD_COLOR = (255, 105, 180)
+WALL_COLOR = (106, 0, 254)
+PIE_COLOR = (0, 255, 0)
+SPRITE_SIZE = 30 # shouldnt be less than 15
+MARGIN = 100
+EAT_FOOD_SOUND_URL = "eat_food.mp3"
+EAT_PIE_SOUND_URL = "power_up.mp3"
